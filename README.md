@@ -1,46 +1,36 @@
-# Harvard CS50 Python Problem Sets
+# CS50's Introduction to Programming with Python
 
-Welcome to the Harvard CS50 Python Problem Sets repository! This repository contains my solutions to the problem sets for CS50's Introduction to Computer Science using Python. This course is offered by Harvard University through edX.
+This repository contains my solutions to the problem sets and projects for [CS50P](https://cs50.harvard.edu/python/), Harvard University's introduction to programming using Python.
 
-## Table of Contents
-- [Course Information](#course-information)
-- [Problem Sets](#problem-sets)
-- [Usage](#usage)
-- [License](#license)
+## 🎓 About the Course
+CS50P is a focused dive into the Python programming language. Led by **David J. Malan**, the course covers the fundamentals of programming as well as intermediate concepts like regular expressions, object-oriented programming, and unit testing.
 
-## Course Information
-- **Course Name:** CS50’s Introduction to Programming with Python
-- **Instructor:** David J. Malan
-- **Platform:** edX
-- **Course URL:** [CS50's Introduction to Computer Science](https://cs50.harvard.edu/python/2022/)
+## 🛠️ Skills & Technologies
+- **Language:** Python 3
+- **Testing:** Pytest (Unit Testing)
+- **Libraries:** Requests (APIs), Inflect, Figlet, Validators, Pillow (Image Processing)
+- **Data:** CSV, JSON, Regular Expressions (Regex)
+- **Concepts:** Functions, Conditionals, Loops, Exceptions, File I/O, OOP (Classes/Objects)
 
-## Problem Sets
-This repository contains my solutions to the problem sets for each week of the course. Here's a list of the problem sets available:
+## 📂 Repository Structure
+The project is organized by "Weeks" as defined in the course syllabus:
 
-- [Week 0: Functions, Variables](week0/)
-- [Week 1: Conditionals](week1/)
-- [Week 2: Loops](week2/)
-- [Week 3: Exceptions](week3/)
-- [Week 4: Libraries](week4/)
-- [Week 5: Unit Tests](week5/)
-- [Week 6: File I/O](week6/)
-- [Week 7: Regular Expressions](week7/)
-- [Week 8: Object-Oriented Programming](week8/)
-- [Week 9: Et Cetera (Final Project)](Final%20project/)
+| Week | Topic | Description |
+| :--- | :--- | :--- |
+| **0** | [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) | Basics of syntax, arguments, and return values. |
+| **1** | [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/) | If/elif/else statements and boolean logic. |
+| **2** | [Loops](https://cs50.harvard.edu/python/2022/weeks/2/) | While and for loops, dictionaries, and lists. |
+| **3** | [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/) | Handling errors with try/except blocks. |
+| **4** | [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/) | Using `pip`, modules, and external APIs. |
+| **5** | [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/) | Writing tests with `pytest` to ensure code reliability. |
+| **6** | [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/) | Reading and writing text and CSV files. |
+| **7** | [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/) | Pattern matching and data validation with `re`. |
+| **8** | [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/) | Classes, objects, methods, and properties. |
+| **9** | [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/) | List comprehensions, generators, and advanced syntax. |
 
-## Usage
-To use this repository, follow these steps:
+## 🚀 Getting Started
+To run any of the scripts locally, ensure you have Python installed:
 
-1. Clone the repository to your local machine using the following command:
-
-```git clone https://https://github.com/RobinSingh24/cs50-python```
-
-2. Navigate to the specific problem set folder you're interested in, e.g., week0, week1, etc.
-
-3. Review the Python code and any accompanying documentation to understand the solution.
-
-4. Feel free to use the code as a reference, but remember the CS50 academic honesty policy if you are currently enrolled in the course.
-
-## License
-
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute the code as long as you include the original license file and provide appropriate attribution.
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/RobinSingh24/cs50-python.git](https://github.com/RobinSingh24/cs50-python.git)
